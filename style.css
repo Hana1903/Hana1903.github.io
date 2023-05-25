@@ -1,0 +1,22 @@
+* {
+  --primaryClr: #d74831;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: var(--primaryClr);
+}
+
+#projects {
+  background-color: var(--primaryClr);
+}
+
+section {
+  padding-top: 5rem;
+}
+.modal-dialog {
+  width: 80%;
+}
+.modal-footer {
+  justify-content: center;
+}
